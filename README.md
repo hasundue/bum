@@ -1,3 +1,3 @@
 # Bum
 
-Bum bumps SemVers, in any text document.
+Bum bumps numbers.
